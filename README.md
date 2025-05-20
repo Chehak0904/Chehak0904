@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFF9FBF1&repeat=false&width=435&lines=%F0%9F%92%AB+Hi+%F0%9F%91%8B%2C+I'm+Chehak+Makkar)](https://git.io/typing-svg)
 
-**An enthusiastic Computer Science student || Aspiring Full Stack Developer || DSA Enthusiast "**
+**" Aspiring Full Stack Developer || DSA Enthusiast "**
 - 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering (2022–2026)** from **NIT Hamirpur**
 - 🌱 I’m currently learning: **MERN Stack (MongoDB, Express.js, React.js, Node.js)** & improving my **DSA skills**
 - 👯 I’m looking to collaborate on: **Web development projects** 
